@@ -1,0 +1,28 @@
+VIVÍ TU FUTURA PROFESIÓN — INSTITUTO SAN MIGUEL
+Versión 1.0 · 26 de octubre de 2026
+
+PUBLICAR EN NETLIFY
+1. Descomprimí el ZIP.
+2. Entrá a Netlify con tu cuenta.
+3. Para crear un sitio nuevo, usá la opción de despliegue manual y arrastrá la carpeta PUBLICAR que contiene index.html.
+4. Netlify asignará un enlace que podés compartir por WhatsApp o con el sticker Enlace de Instagram.
+5. Si querés reemplazar un sitio existente, subí el contenido de PUBLICAR a la sección de despliegues manuales de ese sitio.
+
+PROBAR SIN PUBLICAR
+Abrí index.html con Chrome, Edge, Firefox o Safari. La app es autónoma: no necesita instalación, bibliotecas, imágenes externas ni conexión para las misiones. Los enlaces al instituto requieren Internet.
+
+FUNCIONES
+Cinco experiencias, quince desafíos con pistas, devoluciones, sellos, preferencias personales, guardado local y tarjeta PNG al completar las cinco misiones.
+No requiere registro. El progreso permanece en el navegador y dispositivo usados. No se sincroniza entre dispositivos. En navegación privada o si se bloquea el almacenamiento puede perderse al cerrar.
+El botón Compartir usa las funciones disponibles en cada navegador. Si no está disponible, permite copiar el enlace o descargar la tarjeta. Se recomienda publicar con HTTPS.
+
+CONTENIDOS
+Las misiones son ejemplos educativos originales. No son una prueba de ingreso ni un diagnóstico vocacional. Los datos resumidos de las carreras y sus duraciones fueron contrastados con las cinco páginas del sitio oficial el 26/10/2026.
+Los enlaces Conocer la carrera llevan a sus páginas oficiales. Consultar ingreso 2027 abre el formulario que el instituto enlaza públicamente. Los datos ingresados allí se gestionan fuera de esta app.
+
+EDICIÓN
+Todo el código está dentro de index.html. CONFIG contiene el año y el sitio institucional. El arreglo careers contiene los títulos, las fichas y los desafíos. La apariencia está en style.
+Para reiniciar una demostración, usá Borrar mi progreso y confirmá.
+
+PRUEBAS REALIZADAS
+Recorrido de las cinco misiones, respuesta incorrecta y devolución, cálculo de aciertos, sellos, valoración personal, desbloqueo final y sintaxis JavaScript. La adaptación móvil se implementa mediante reglas responsive.
